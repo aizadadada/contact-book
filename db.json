@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "title": "Corgi23",
+      "price": "3",
+      "photo": "https://neskychno.com/wp-content/uploads/2019/06/1553019566_pipir.jpg",
+      "description": "Funny23",
+      "id": 4
+    },
+    {
+      "title": "wqd",
+      "price": "wqd",
+      "photo": "qfw",
+      "description": "fw",
+      "id": 5
+    },
+    {
+      "title": "qw",
+      "price": "p[",
+      "photo": "pl[",
+      "description": "lp[",
+      "id": 6
+    },
+    {
+      "title": "kn",
+      "price": "kn",
+      "photo": "lm.,",
+      "description": "lm",
+      "id": 7
+    },
+    {
+      "title": "kopo",
+      "price": "pl;l[p",
+      "photo": "pkl;,",
+      "description": "kopl",
+      "id": 8
+    },
+    {
+      "title": "ize.cheese.ru",
+      "price": "kn",
+      "photo": "jkm",
+      "description": "lm",
+      "id": 9
+    }
+  ]
+}
