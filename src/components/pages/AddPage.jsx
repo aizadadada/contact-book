@@ -20,8 +20,8 @@ const AddPage = () => {
             ...newProduct,
             [e.target.name]: e.target.value//мы записываем "[]", потому что есть "."
         }
+        console.log(obj);
         setNewProduct(obj)
-        // console.log(obj);
     }
     function handleClick() {
         if (!newProduct.title.trim() || !newProduct.price.trim() || !newProduct.photo.trim() || !newProduct.description.trim()) {
